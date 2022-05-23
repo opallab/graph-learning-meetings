@@ -1,4 +1,4 @@
-# Weekly Reading Group Meeting Schedule (Graph Learning)
+# Reading Group Meeting Schedule (Graph Learning)
 
 We meet online every Thursday 11:00AM EST.
 
